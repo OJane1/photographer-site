@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="heading">
+    <h1>Anna Scott, your photographer in la Provence</h1>
+</div>
+<div class="container">
+    <div class="item one selected">
+        <h4>Dreamy lavender fields</h4>
+        <p class="desc">From the end of June to July</p>
+        <p class="price">300€ / 2 hours</p>
+    </div>
+    <div class="item two">
+        <h4>Poppy fields</h4>
+        <p class="desc">From end April to May</p>
+        <p class="price">300€ / 2 hours</p>
+    </div>
+    <div class="item three">
+        <h4>Sea shore shooting</h4>
+        <p class="desc">Breezy and salty memories</p>
+        <p class="price">250€ / 2 hours</p>
+    </div>
+    <div class="item four">
+        <h4>A stroll through the city</h4>
+        <p class="desc">Your favourite places in the background and in your heart</p>
+        <p class="price">200€ / 2 hours</p>
+    </div>
+    <div class="item five">
+        <h4>Family shootings</h4>
+        <p class="desc">Capture happy moments with your loved ones</p>
+        <p class="price">200€ / 2 hours</p>
+    </div>
+    <div class="item six">
+        <h4>Special occasions</h4>
+        <p class="desc">Weddings, birthdays, conferences...</p>
+        <p class="price">From 150€ per hour</p>
+    </div>
+</div>
+
+<div class="heading">
+    <h3>Send me a message for more details:</h3>
+</div>
+
+<form
+  action="https://formspree.io/f/xgejkarv"
+  method="POST"
+>
+
+<input type="hidden" name="_language" value="en" />
+
+ <div class="heading"> 
+<label>
+    Your email:
+    <input type="email" name="email" placeholder="Your e-mail:" required="" class="text-input">
+  </label>
+</div>
+<div class="heading">
+  <label>
+    Your message:
+    <textarea name="message" placeholder="Type a message" class="text-input" required=""></textarea>
+  </label>
+</div>
+
+<br>
+
+  <div class="heading">
+  <button class="btn" type="submit">Send</button>
+</div>
+</form>
+
+    <script src="index.js"></script>
+</body>
+</html>
