@@ -34,10 +34,9 @@
     <img src="https://github.com/OJane1/photographer-site/blob/main/public/29457542_4739.jpg?raw=true" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Photographer landing page</h3>
 
   <p align="center">
-    Photographer landing page
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
@@ -60,10 +59,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -79,27 +74,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://github.com/OJane1/photographer-site/blob/main/public/Capture%20d%E2%80%99e%CC%81cran%202023-12-28%20a%CC%80%2010.18.36.png?raw=true" alt="main screenshot">
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This is a learning project of a landing page for a photographer. Different types of works are shown in slides which open when the mouse is on them. The site has an integrated message form connected to Typeform service. 
 
 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+* [HTML](https://html.com/html5/)
+* [CSS](https://css3.com/)
+* [JavaScript](https://www.javascript.com/)
 
 
 <!-- GETTING STARTED -->
